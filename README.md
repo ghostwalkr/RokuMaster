@@ -17,7 +17,7 @@ Only requires bash and wget. Cloning the whole repo isn't really necessary. You 
 Unfortunately, you have to manually open the script to put the IP/hostname of the roku device in. You could just make a seperate script for each roku you want to control if you have multiple. I'll add the option to specify IP/hostname from the command line in the future sometime.
 
 ## Usage
-`./rokumaster.sh <command>`
+`./roku-master.sh <command>`
 
 ## Todo
 - Press remote keys (up,down,left,right,etc.)
