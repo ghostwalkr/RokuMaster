@@ -2,7 +2,7 @@
 A shell script that interacts with a roku streaming device over ECP
 
 ## Description
-This script is for controlling a roku device on a LAN. It's pretty basic. The script uses wget to send GET and POST requests to the roku on port 8060. Here's the Roku API guide: [text link](https://developer.roku.com/docs/developer-program/debugging/external-control-api.md).
+This script is for controlling a roku device on a LAN. It's pretty basic. The script uses wget to send GET and POST requests to the roku on port 8060. Here's the Roku API guide: [Roku API](https://developer.roku.com/docs/developer-program/debugging/external-control-api.md).
 
 ## Features
 * List installed applications
